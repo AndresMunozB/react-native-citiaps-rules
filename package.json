@@ -1,0 +1,23 @@
+{
+  "name": "react-native-citiaps-rules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresMunozB/react-native-citiaps-rules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresMunozB/react-native-citiaps-rules/issues"
+  },
+  "homepage": "https://github.com/AndresMunozB/react-native-citiaps-rules#readme",
+  "dependencies": {
+    "rut.js": "^1.0.2"
+  }
+}
